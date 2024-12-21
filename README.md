@@ -1,4 +1,4 @@
-# D-FLIPDLOP-NEGEDGE
+# D-FLIPFLOP-NEGEDGE
 
 **AIM:**
 
@@ -61,19 +61,19 @@ endmodule
 
 
 
-**RTL LOGIC FOR FLIPFLOPS**
+**RTL LOGIC FOR FLIPFLOP**
 
 
 ![Experiment 8](https://github.com/user-attachments/assets/62a26e83-a604-4139-afd8-17e7f02816ef)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAM FOR FLIP FLOP**
 
 
 ![Experiment 8        DE](https://github.com/user-attachments/assets/4ebd89f2-beb2-4670-8aa2-cb8f57e9e876)
 
 
-**RESULTS**
+**RESULT**
 
-D flipflop using verilog and validating their functionality using their functional tables is verifeid.
+D flipflop using verilog and validating their functionality using their functional tables is verified.
 
